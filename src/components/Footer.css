@@ -1,0 +1,4 @@
+.footer-base {
+    display: flex;
+    justify-content: space-between;
+}
